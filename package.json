@@ -1,24 +1,25 @@
 {
-  "name": "bitandbang",
-  "version": "1.1.0",
-  "description": "A personal card for Tierney Cyren (@bitandbang)",
+  "name": "guillermoparedes",
+  "version": "1.2.0",
+  "description": "A personal card for Guillermo David Paredes Torrez(@_GD_DEV_)",
   "main": "index.js",
   "bin": {
-    "bitandbang": "./bin/card.js"
+    "guillermoparedes": "./bin/card.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bnb/bitandbang.git"
+    "url": "https://github.com/GuillermoParedes/bitandbang.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Tierney Cyren <hello@bnb.im> (http://bnb.im)",
+  "author": "Guillermo David Paredes Torrez <gdavid.ptorrez@gmail.com> (https://guillermoparedes.github.io/blog/)",
   "license": "MIT",
   "dependencies": {
     "boxen": "^2.1.0",
-    "chalk": "^2.4.1"
+    "chalk": "^2.4.1",
+    "commander": "^2.19.0"
   },
   "devDependencies": {
     "standard": "^12.0.1"
